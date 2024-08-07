@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## Currently I'm learning svelte
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Monicka3)](https://git.io/streak-stats)
 
 <!--
